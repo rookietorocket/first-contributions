@@ -91,6 +91,7 @@
 - [Awais Ahmad] (https://github.com/awaisahmad64)
 - [Suraj Aute](https://github.com/RNTUNOOB) 
 - [Sudip Parajuli](https://github.com/Sudip777)
+- [Sudip Pandey](https://github.com/rookietorocket)
 - [Mellon Amutuheire](https://github.com/AMUTUHEIREMELLON)
 - 🐈‍⬛[lonely_caat](https://github.com/lonely-caat)🐈‍⬛
 - [Meow Aadvik]
